@@ -4,7 +4,7 @@ A collection of passwords and wordlists commonly used for dictionary-attacks usi
 
 ### How To Use:
 
-* git clone https://github.com/kennyn510/wpa2-wordlists.git
+* git clone https://github.com/mildmelon/wpa2-wordlists
 * cd wpa2-wordlists/Wordlists/example2016
 * gunzip *.gz
 * cat *.txt >> full.txt
